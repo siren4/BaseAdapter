@@ -1,4 +1,4 @@
-package com.siren.liu.example;
+package com.siren.liu.adapter2;
 
 import androidx.appcompat.app.AppCompatActivity;
 

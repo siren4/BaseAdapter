@@ -1,4 +1,4 @@
-package com.siren.liu.example;
+package com.siren.liu.adapter2;
 
 import com.siren.liu.adapter.recycler.delegate.ItemViewDelegate;
 import com.siren.liu.adapter.recycler.holder.RVBaseViewHolder;

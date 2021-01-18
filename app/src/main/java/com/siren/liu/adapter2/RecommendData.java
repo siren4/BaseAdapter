@@ -1,4 +1,4 @@
-package com.siren.liu.example;
+package com.siren.liu.adapter2;
 
 /**
  * Created by LiuG on 2019/1/11.
